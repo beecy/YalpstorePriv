@@ -30,7 +30,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
     ui_print "*******************************"
-    ui_print "          AptoidePriv        "
+    ui_print "          YalpStorePriv        "
     ui_print "*******************************"
 }
 
