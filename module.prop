@@ -2,7 +2,7 @@ id=YalpstorePriv
 name=YalpstorePriv
 version=v0.43
 versionCode=01
-author=switchtegrax1
+author=Switchtegrax1
 description=Make YalpStore a Privileged App
 minMagisk=1500
 
